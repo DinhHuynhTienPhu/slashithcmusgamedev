@@ -1,0 +1,1241 @@
+fileFormatVersion: 2
+guid: 57a910f2e653ee1438fa6f76a9fea39b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2844528613685417467
+    second: 16x16 knight 1 v3_0
+  - first:
+      213: 5077951936815554185
+    second: 16x16 knight 1 v3_1
+  - first:
+      213: 6668954636947127021
+    second: 16x16 knight 1 v3_2
+  - first:
+      213: -3605793124319910879
+    second: 16x16 knight 1 v3_3
+  - first:
+      213: -7418388369872181504
+    second: 16x16 knight 1 v3_4
+  - first:
+      213: -2251191660566096830
+    second: 16x16 knight 1 v3_5
+  - first:
+      213: 5240390174377622978
+    second: 16x16 knight 1 v3_6
+  - first:
+      213: 6101636596553254178
+    second: 16x16 knight 1 v3_7
+  - first:
+      213: -5691771376249780793
+    second: 16x16 knight 1 v3_8
+  - first:
+      213: 7036712423477615756
+    second: 16x16 knight 1 v3_9
+  - first:
+      213: -706512142735157509
+    second: 16x16 knight 1 v3_10
+  - first:
+      213: 4563613908877002918
+    second: 16x16 knight 1 v3_11
+  - first:
+      213: 2495315560033289741
+    second: 16x16 knight 1 v3_12
+  - first:
+      213: -4600161849134635483
+    second: 16x16 knight 1 v3_13
+  - first:
+      213: -3131045179205502306
+    second: 16x16 knight 1 v3_14
+  - first:
+      213: 6827971455141607388
+    second: 16x16 knight 1 v3_15
+  - first:
+      213: 1412723310412759650
+    second: 16x16 knight 1 v3_16
+  - first:
+      213: -6765820311707328253
+    second: 16x16 knight 1 v3_17
+  - first:
+      213: -4025817919568422328
+    second: 16x16 knight 1 v3_18
+  - first:
+      213: 2796341725199526470
+    second: 16x16 knight 1 v3_19
+  - first:
+      213: 1392692461771914079
+    second: 16x16 knight 1 v3_20
+  - first:
+      213: -2478592285656383414
+    second: 16x16 knight 1 v3_21
+  - first:
+      213: 9078442735208826116
+    second: 16x16 knight 1 v3_22
+  - first:
+      213: 4322081577581515943
+    second: 16x16 knight 1 v3_23
+  - first:
+      213: -6492085086086183167
+    second: 16x16 knight 1 v3_24
+  - first:
+      213: 6768130984775586365
+    second: 16x16 knight 1 v3_25
+  - first:
+      213: -8920754691096342510
+    second: 16x16 knight 1 v3_26
+  - first:
+      213: 8324574040030746937
+    second: 16x16 knight 1 v3_27
+  - first:
+      213: -3724190924699881111
+    second: 16x16 knight 1 v3_28
+  - first:
+      213: -309642465885494694
+    second: 16x16 knight 1 v3_29
+  - first:
+      213: -8256789450828361402
+    second: 16x16 knight 1 v3_30
+  - first:
+      213: 1097749257117638660
+    second: 16x16 knight 1 v3_31
+  - first:
+      213: 7069187446955405961
+    second: 16x16 knight 1 v3_32
+  - first:
+      213: -4390817044476194271
+    second: 16x16 knight 1 v3_33
+  - first:
+      213: 8801801872439238009
+    second: 16x16 knight 1 v3_34
+  - first:
+      213: -1003528909055931302
+    second: 16x16 knight 1 v3_35
+  - first:
+      213: -1267878658541066919
+    second: 16x16 knight 1 v3_36
+  - first:
+      213: 3625373374552237266
+    second: 16x16 knight 1 v3_37
+  - first:
+      213: 3190603912536531338
+    second: 16x16 knight 1 v3_38
+  - first:
+      213: -3588860717783683738
+    second: 16x16 knight 1 v3_39
+  - first:
+      213: -4192140826034783718
+    second: 16x16 knight 1 v3_40
+  - first:
+      213: 1364658736861679266
+    second: 16x16 knight 1 v3_41
+  - first:
+      213: 6081981406471437421
+    second: 16x16 knight 1 v3_42
+  - first:
+      213: 5809424079251394816
+    second: 16x16 knight 1 v3_43
+  - first:
+      213: -6444656772902823490
+    second: 16x16 knight 1 v3_44
+  - first:
+      213: -6170462717643583006
+    second: 16x16 knight 1 v3_45
+  - first:
+      213: 8616687424771293403
+    second: 16x16 knight 1 v3_46
+  - first:
+      213: 2996698887236568256
+    second: 16x16 knight 1 v3_47
+  - first:
+      213: 4453255305252643181
+    second: 16x16 knight 1 v3_48
+  - first:
+      213: 7003185825799272902
+    second: 16x16 knight 1 v3_49
+  - first:
+      213: -4142883135938685427
+    second: 16x16 knight 1 v3_50
+  - first:
+      213: 8920691217841262771
+    second: 16x16 knight 1 v3_51
+  - first:
+      213: 4174809731465991184
+    second: 16x16 knight 1 v3_52
+  - first:
+      213: 8474960442494419394
+    second: 16x16 knight 1 v3_53
+  - first:
+      213: -109148424669116860
+    second: 16x16 knight 1 v3_54
+  - first:
+      213: 5965600201804721953
+    second: 16x16 knight 1 v3_55
+  - first:
+      213: -2811392952544166707
+    second: 16x16 knight 1 v3_56
+  - first:
+      213: -6637279617009930415
+    second: 16x16 knight 1 v3_57
+  - first:
+      213: 5977538231114268813
+    second: 16x16 knight 1 v3_58
+  - first:
+      213: -6768972318844999741
+    second: 16x16 knight 1 v3_59
+  - first:
+      213: 220209715433624796
+    second: 16x16 knight 1 v3_60
+  - first:
+      213: 3912168416776181595
+    second: 16x16 knight 1 v3_61
+  - first:
+      213: 4636373174353075809
+    second: 16x16 knight 1 v3_62
+  - first:
+      213: -1770925700557379617
+    second: 16x16 knight 1 v3_63
+  - first:
+      213: -4084960071251427935
+    second: 16x16 knight 1 v3_64
+  - first:
+      213: 5512115687716650768
+    second: 16x16 knight 1 v3_65
+  - first:
+      213: -6721259730798310957
+    second: 16x16 knight 1 v3_66
+  - first:
+      213: -5577214408651791238
+    second: 16x16 knight 1 v3_67
+  - first:
+      213: -6816151869477268671
+    second: 16x16 knight 1 v3_68
+  - first:
+      213: 9060988842794536021
+    second: 16x16 knight 1 v3_69
+  - first:
+      213: 3394441041881444550
+    second: 16x16 knight 1 v3_70
+  - first:
+      213: 4897889568536092328
+    second: 16x16 knight 1 v3_71
+  - first:
+      213: -1930177654922690977
+    second: 16x16 knight 1 v3_72
+  - first:
+      213: -7251727419659080617
+    second: 16x16 knight 1 v3_73
+  - first:
+      213: -1445174758793701792
+    second: 16x16 knight 1 v3_74
+  - first:
+      213: -8055577801541791810
+    second: 16x16 knight 1 v3_75
+  - first:
+      213: -4266588620980778467
+    second: 16x16 knight 1 v3_76
+  - first:
+      213: -4559350027297886317
+    second: 16x16 knight 1 v3_77
+  - first:
+      213: 4383909059183664259
+    second: 16x16 knight 1 v3_78
+  - first:
+      213: -5505908828804210192
+    second: 16x16 knight 1 v3_79
+  - first:
+      213: 3725998172996184208
+    second: 16x16 knight 1 v3_80
+  - first:
+      213: 6238601290533266237
+    second: 16x16 knight 1 v3_81
+  - first:
+      213: 1160160816606695550
+    second: 16x16 knight 1 v3_82
+  - first:
+      213: -7497548109952626854
+    second: 16x16 knight 1 v3_83
+  - first:
+      213: 4853760207398006315
+    second: 16x16 knight 1 v3_84
+  - first:
+      213: 3236497584593720537
+    second: 16x16 knight 1 v3_85
+  - first:
+      213: -285655628010302679
+    second: 16x16 knight 1 v3_86
+  - first:
+      213: -3583104482491281800
+    second: 16x16 knight 1 v3_87
+  - first:
+      213: -1330587697765241429
+    second: 16x16 knight 1 v3_88
+  - first:
+      213: -1092400784513083564
+    second: 16x16 knight 1 v3_89
+  - first:
+      213: 3795451584037434961
+    second: 16x16 knight 1 v3_90
+  - first:
+      213: -2397315623785591078
+    second: 16x16 knight 1 v3_91
+  - first:
+      213: -3629986287914906796
+    second: 16x16 knight 1 v3_92
+  - first:
+      213: -3048086163460205543
+    second: 16x16 knight 1 v3_93
+  - first:
+      213: -8881077603109876357
+    second: 16x16 knight 1 v3_94
+  - first:
+      213: -4019427577100857365
+    second: 16x16 knight 1 v3_95
+  - first:
+      213: 8500180732787976536
+    second: 16x16 knight 1 v3_96
+  - first:
+      213: -3182612360190294753
+    second: 16x16 knight 1 v3_97
+  - first:
+      213: -8052522221353032223
+    second: 16x16 knight 1 v3_98
+  - first:
+      213: 1378586682752058655
+    second: 16x16 knight 1 v3_99
+  - first:
+      213: 7153958647223796078
+    second: 16x16 knight 1 v3_100
+  - first:
+      213: -4345218498871026040
+    second: 16x16 knight 1 v3_101
+  - first:
+      213: 2324051638023656249
+    second: 16x16 knight 1 v3_102
+  - first:
+      213: 6638225074352180439
+    second: 16x16 knight 1 v3_103
+  - first:
+      213: -6369823961692987610
+    second: 16x16 knight 1 v3_104
+  - first:
+      213: -6977012465863236141
+    second: 16x16 knight 1 v3_105
+  - first:
+      213: -6660743869759643998
+    second: 16x16 knight 1 v3_106
+  - first:
+      213: 6279875725540166188
+    second: 16x16 knight 1 v3_107
+  - first:
+      213: -3019178055455595117
+    second: 16x16 knight 1 v3_108
+  - first:
+      213: 4085059276485759810
+    second: 16x16 knight 1 v3_109
+  - first:
+      213: -2687112175929353330
+    second: 16x16 knight 1 v3_110
+  - first:
+      213: 1308876150880836051
+    second: 16x16 knight 1 v3_111
+  - first:
+      213: -5056462067990406771
+    second: 16x16 knight 1 v3_112
+  - first:
+      213: -1064482184385654753
+    second: 16x16 knight 1 v3_113
+  - first:
+      213: 8606471829413293931
+    second: 16x16 knight 1 v3_114
+  - first:
+      213: 222733456736712027
+    second: 16x16 knight 1 v3_115
+  - first:
+      213: -473544869617128044
+    second: 16x16 knight 1 v3_116
+  - first:
+      213: -838256278366760998
+    second: 16x16 knight 1 v3_117
+  - first:
+      213: 2934989212743979169
+    second: 16x16 knight 1 v3_118
+  - first:
+      213: 2649149308028187864
+    second: 16x16 knight 1 v3_119
+  - first:
+      213: 5460897364045505506
+    second: 16x16 knight 1 v3_120
+  - first:
+      213: 5592530932435560975
+    second: 16x16 knight 1 v3_121
+  - first:
+      213: -3218273494883081017
+    second: 16x16 knight 1 v3_122
+  - first:
+      213: 6122114646129076754
+    second: 16x16 knight 1 v3_123
+  - first:
+      213: -3565179501357256282
+    second: 16x16 knight 1 v3_124
+  - first:
+      213: -1504796145109355193
+    second: 16x16 knight 1 v3_125
+  - first:
+      213: -3144373028444226201
+    second: 16x16 knight 1 v3_126
+  - first:
+      213: -8862093068566461395
+    second: 16x16 knight 1 v3_127
+  - first:
+      213: -7556401199127799226
+    second: 16x16 knight 1 v3_128
+  - first:
+      213: 2586275510581208007
+    second: 16x16 knight 1 v3_129
+  - first:
+      213: 6622970107990717455
+    second: 16x16 knight 1 v3_130
+  - first:
+      213: 6575637923182903866
+    second: 16x16 knight 1 v3_131
+  - first:
+      213: 8075313948481490261
+    second: 16x16 knight 1 v3_132
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf5572404bbc97720800000000000000
+      internalID: 2844528613685417467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ed564e162887640800000000000000
+      internalID: 5077951936815554185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea7d6e98e2ec8c50800000000000000
+      internalID: 6668954636947127021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124ad5bf146a5fdc0800000000000000
+      internalID: -3605793124319910879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.37}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00721e7f4179c0990800000000000000
+      internalID: -7418388369872181504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244d2aeac1922c0e0800000000000000
+      internalID: -2251191660566096830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cdb93c491b99b840800000000000000
+      internalID: 5240390174377622978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225841e182e5da450800000000000000
+      internalID: 6101636596553254178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c545efe614c201b0800000000000000
+      internalID: -5691771376249780793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_9
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c16f3caac67a160800000000000000
+      internalID: 7036712423477615756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf655ce03f6f136f0800000000000000
+      internalID: -706512142735157509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a845aacba6355f30800000000000000
+      internalID: 4563613908877002918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d060a46f74421a220800000000000000
+      internalID: 2495315560033289741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 526a601cb21f820c0800000000000000
+      internalID: -4600161849134635483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ab1cd9ffa4c84d0800000000000000
+      internalID: -3131045179205502306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_15
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7f830ccd3d1ce50800000000000000
+      internalID: 6827971455141607388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262011bad500b9310800000000000000
+      internalID: 1412723310412759650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 301ef8af54afa12a0800000000000000
+      internalID: -6765820311707328253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ad8bd8eeb6128c0800000000000000
+      internalID: -4025817919568422328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64aee11cbf99ec620800000000000000
+      internalID: 2796341725199526470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b77494a66d35310800000000000000
+      internalID: 1392692461771914079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_21
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a408d66c2754a9dd0800000000000000
+      internalID: -2478592285656383414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40509d9619b1dfd70800000000000000
+      internalID: 9078442735208826116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_23
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a49102ab4e1bfb30800000000000000
+      internalID: 4322081577581515943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 107c830c20b77e5a0800000000000000
+      internalID: -6492085086086183167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d321dd4854b3ded50800000000000000
+      internalID: 6768130984775586365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2109dc46fdc133480800000000000000
+      internalID: -8920754691096342510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9399872ebf3d68370800000000000000
+      internalID: 8324574040030746937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961b789e514015cc0800000000000000
+      internalID: -3724190924699881111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a52e48d51dde3bbf0800000000000000
+      internalID: -309642465885494694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_30
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 641de26adbdf96d80800000000000000
+      internalID: -8256789450828361402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_31
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40022fa122dfb3f00800000000000000
+      internalID: 1097749257117638660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9827d62678cca1260800000000000000
+      internalID: 7069187446955405961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 16x16 knight 1 v3_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 122144e592fa013c0800000000000000
+      internalID: -4390817044476194271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

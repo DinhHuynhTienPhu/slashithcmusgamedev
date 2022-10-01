@@ -1,0 +1,1991 @@
+fileFormatVersion: 2
+guid: fc398a2990dda084dbf725ed7af161b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6246325588108122266
+    second: RPG Nature Tileset Autumn_0
+  - first:
+      213: 4467083823794346325
+    second: RPG Nature Tileset Autumn_1
+  - first:
+      213: 6097846051545051239
+    second: RPG Nature Tileset Autumn_2
+  - first:
+      213: 9116652079174770162
+    second: RPG Nature Tileset Autumn_3
+  - first:
+      213: -639148405182265374
+    second: RPG Nature Tileset Autumn_4
+  - first:
+      213: -6457540726674247257
+    second: RPG Nature Tileset Autumn_5
+  - first:
+      213: -4298036925636041668
+    second: RPG Nature Tileset Autumn_6
+  - first:
+      213: 5450919302702082267
+    second: RPG Nature Tileset Autumn_7
+  - first:
+      213: 6497504597725733245
+    second: RPG Nature Tileset Autumn_8
+  - first:
+      213: 3279939847641384380
+    second: RPG Nature Tileset Autumn_9
+  - first:
+      213: -5770312726961956187
+    second: RPG Nature Tileset Autumn_10
+  - first:
+      213: -6258259745119027224
+    second: RPG Nature Tileset Autumn_11
+  - first:
+      213: 5356462938283844980
+    second: RPG Nature Tileset Autumn_12
+  - first:
+      213: 1047403764980230821
+    second: RPG Nature Tileset Autumn_13
+  - first:
+      213: 6680159165269915095
+    second: RPG Nature Tileset Autumn_14
+  - first:
+      213: -477723701756813541
+    second: RPG Nature Tileset Autumn_15
+  - first:
+      213: 126808688004587368
+    second: RPG Nature Tileset Autumn_16
+  - first:
+      213: 5463310164591549345
+    second: RPG Nature Tileset Autumn_17
+  - first:
+      213: 2446221822029851749
+    second: RPG Nature Tileset Autumn_18
+  - first:
+      213: 7000573452621961427
+    second: RPG Nature Tileset Autumn_19
+  - first:
+      213: -1936851797730802459
+    second: RPG Nature Tileset Autumn_20
+  - first:
+      213: -5764957094353101379
+    second: RPG Nature Tileset Autumn_21
+  - first:
+      213: -6677178139887939009
+    second: RPG Nature Tileset Autumn_22
+  - first:
+      213: 7449346861016951909
+    second: RPG Nature Tileset Autumn_23
+  - first:
+      213: 7765624362046631738
+    second: RPG Nature Tileset Autumn_24
+  - first:
+      213: -1009458550958513020
+    second: RPG Nature Tileset Autumn_25
+  - first:
+      213: 8906962013648934571
+    second: RPG Nature Tileset Autumn_26
+  - first:
+      213: 4926480181426914184
+    second: RPG Nature Tileset Autumn_27
+  - first:
+      213: 6047345111380261770
+    second: RPG Nature Tileset Autumn_28
+  - first:
+      213: -8153719801746634689
+    second: RPG Nature Tileset Autumn_29
+  - first:
+      213: 5436925231558735555
+    second: RPG Nature Tileset Autumn_30
+  - first:
+      213: 9067367795676741018
+    second: RPG Nature Tileset Autumn_31
+  - first:
+      213: -4630744577734285556
+    second: RPG Nature Tileset Autumn_32
+  - first:
+      213: 2856036871016552470
+    second: RPG Nature Tileset Autumn_33
+  - first:
+      213: -1188113100001689925
+    second: RPG Nature Tileset Autumn_34
+  - first:
+      213: 213670807979898513
+    second: RPG Nature Tileset Autumn_35
+  - first:
+      213: 8105327799957013475
+    second: RPG Nature Tileset Autumn_36
+  - first:
+      213: 3862939071084615736
+    second: RPG Nature Tileset Autumn_37
+  - first:
+      213: -7494953359505054598
+    second: RPG Nature Tileset Autumn_38
+  - first:
+      213: -2048314868026161992
+    second: RPG Nature Tileset Autumn_39
+  - first:
+      213: -4391429985565980517
+    second: RPG Nature Tileset Autumn_40
+  - first:
+      213: -8917616103073397753
+    second: RPG Nature Tileset Autumn_41
+  - first:
+      213: -3927467884866778296
+    second: RPG Nature Tileset Autumn_42
+  - first:
+      213: -1389348031381502485
+    second: RPG Nature Tileset Autumn_43
+  - first:
+      213: 5142302293277845503
+    second: RPG Nature Tileset Autumn_44
+  - first:
+      213: 1595488168005526204
+    second: RPG Nature Tileset Autumn_45
+  - first:
+      213: -3684617666348956945
+    second: RPG Nature Tileset Autumn_46
+  - first:
+      213: 5873050826060440479
+    second: RPG Nature Tileset Autumn_47
+  - first:
+      213: 2914791040595116431
+    second: RPG Nature Tileset Autumn_48
+  - first:
+      213: 6478614225801923349
+    second: RPG Nature Tileset Autumn_49
+  - first:
+      213: -2608684513723176016
+    second: RPG Nature Tileset Autumn_50
+  - first:
+      213: -6673119603105306559
+    second: RPG Nature Tileset Autumn_51
+  - first:
+      213: 108933623721898964
+    second: RPG Nature Tileset Autumn_52
+  - first:
+      213: 9044658225657098723
+    second: RPG Nature Tileset Autumn_53
+  - first:
+      213: 9104947320260105223
+    second: RPG Nature Tileset Autumn_54
+  - first:
+      213: -8419298725337777298
+    second: RPG Nature Tileset Autumn_55
+  - first:
+      213: 5463856792891880917
+    second: RPG Nature Tileset Autumn_56
+  - first:
+      213: 1206827398539770300
+    second: RPG Nature Tileset Autumn_57
+  - first:
+      213: -7921776143639564500
+    second: RPG Nature Tileset Autumn_58
+  - first:
+      213: -3374469928473425473
+    second: RPG Nature Tileset Autumn_59
+  - first:
+      213: -5276265033971487683
+    second: RPG Nature Tileset Autumn_60
+  - first:
+      213: 5816664509175401796
+    second: RPG Nature Tileset Autumn_61
+  - first:
+      213: 5770124967913029625
+    second: RPG Nature Tileset Autumn_62
+  - first:
+      213: 2469020556179260766
+    second: RPG Nature Tileset Autumn_63
+  - first:
+      213: 5165438532173993942
+    second: RPG Nature Tileset Autumn_64
+  - first:
+      213: -5900365049352599477
+    second: RPG Nature Tileset Autumn_65
+  - first:
+      213: 4894381316074134722
+    second: RPG Nature Tileset Autumn_66
+  - first:
+      213: -2251766879325942218
+    second: RPG Nature Tileset Autumn_67
+  - first:
+      213: 7918964685907121173
+    second: RPG Nature Tileset Autumn_68
+  - first:
+      213: -8360125150472150158
+    second: RPG Nature Tileset Autumn_0
+  - first:
+      213: -580160690283021948
+    second: RPG Nature Tileset Autumn_1
+  - first:
+      213: 3588296219773415070
+    second: RPG Nature Tileset Autumn_2
+  - first:
+      213: 7750172221619381938
+    second: RPG Nature Tileset Autumn_3
+  - first:
+      213: 238392839058779475
+    second: RPG Nature Tileset Autumn_4
+  - first:
+      213: 7794212425411020530
+    second: RPG Nature Tileset Autumn_5
+  - first:
+      213: 5897914095264577818
+    second: RPG Nature Tileset Autumn_6
+  - first:
+      213: 7876274177965931625
+    second: RPG Nature Tileset Autumn_7
+  - first:
+      213: 8860757547182881461
+    second: RPG Nature Tileset Autumn_8
+  - first:
+      213: -5570346812971402746
+    second: RPG Nature Tileset Autumn_9
+  - first:
+      213: 1764527599120689067
+    second: RPG Nature Tileset Autumn_10
+  - first:
+      213: 8860323039906820055
+    second: RPG Nature Tileset Autumn_11
+  - first:
+      213: 8241512355809493084
+    second: RPG Nature Tileset Autumn_12
+  - first:
+      213: -8228791408373240148
+    second: RPG Nature Tileset Autumn_13
+  - first:
+      213: 1370808684987520139
+    second: RPG Nature Tileset Autumn_14
+  - first:
+      213: 4738416089452258657
+    second: RPG Nature Tileset Autumn_15
+  - first:
+      213: -467214545403794669
+    second: RPG Nature Tileset Autumn_16
+  - first:
+      213: -5541268390375783623
+    second: RPG Nature Tileset Autumn_17
+  - first:
+      213: -591310644181317380
+    second: RPG Nature Tileset Autumn_18
+  - first:
+      213: 2653087465863846335
+    second: RPG Nature Tileset Autumn_19
+  - first:
+      213: 2262042567907597101
+    second: RPG Nature Tileset Autumn_20
+  - first:
+      213: -2067000475350433709
+    second: RPG Nature Tileset Autumn_21
+  - first:
+      213: 2428155105404222804
+    second: RPG Nature Tileset Autumn_22
+  - first:
+      213: -3832030212527566394
+    second: RPG Nature Tileset Autumn_23
+  - first:
+      213: 8869521027721130165
+    second: RPG Nature Tileset Autumn_24
+  - first:
+      213: -1931128390062513722
+    second: RPG Nature Tileset Autumn_25
+  - first:
+      213: -8062781075706082032
+    second: RPG Nature Tileset Autumn_26
+  - first:
+      213: 2845406305242334344
+    second: RPG Nature Tileset Autumn_27
+  - first:
+      213: 2856923091022130985
+    second: RPG Nature Tileset Autumn_28
+  - first:
+      213: -1189044122330302245
+    second: RPG Nature Tileset Autumn_29
+  - first:
+      213: -3413453919268428128
+    second: RPG Nature Tileset Autumn_30
+  - first:
+      213: 3395001233712350945
+    second: RPG Nature Tileset Autumn_31
+  - first:
+      213: 5006831523013339048
+    second: RPG Nature Tileset Autumn_32
+  - first:
+      213: 2743997872669764168
+    second: RPG Nature Tileset Autumn_33
+  - first:
+      213: 2908182835889025426
+    second: RPG Nature Tileset Autumn_34
+  - first:
+      213: -2148219931972579011
+    second: RPG Nature Tileset Autumn_35
+  - first:
+      213: -2343886743564802549
+    second: RPG Nature Tileset Autumn_36
+  - first:
+      213: -2945641651579123421
+    second: RPG Nature Tileset Autumn_37
+  - first:
+      213: -683126663805473006
+    second: RPG Nature Tileset Autumn_38
+  - first:
+      213: 4234258460985865590
+    second: RPG Nature Tileset Autumn_39
+  - first:
+      213: 4201066003021870982
+    second: RPG Nature Tileset Autumn_40
+  - first:
+      213: 1632991627181678335
+    second: RPG Nature Tileset Autumn_41
+  - first:
+      213: 9170604926395543289
+    second: RPG Nature Tileset Autumn_42
+  - first:
+      213: -6587271132689405722
+    second: RPG Nature Tileset Autumn_43
+  - first:
+      213: 4925851878671870178
+    second: RPG Nature Tileset Autumn_44
+  - first:
+      213: -631050341702369269
+    second: RPG Nature Tileset Autumn_45
+  - first:
+      213: 7866836291840064645
+    second: RPG Nature Tileset Autumn_46
+  - first:
+      213: 2584087738471268618
+    second: RPG Nature Tileset Autumn_47
+  - first:
+      213: -3018235841665325593
+    second: RPG Nature Tileset Autumn_48
+  - first:
+      213: 6741632720961280093
+    second: RPG Nature Tileset Autumn_49
+  - first:
+      213: 797365614767626146
+    second: RPG Nature Tileset Autumn_50
+  - first:
+      213: -3092665480374426578
+    second: RPG Nature Tileset Autumn_51
+  - first:
+      213: 6844236898551292580
+    second: RPG Nature Tileset Autumn_52
+  - first:
+      213: -5930362472899928727
+    second: RPG Nature Tileset Autumn_53
+  - first:
+      213: 2903512825705337931
+    second: RPG Nature Tileset Autumn_54
+  - first:
+      213: 1069854290383406231
+    second: RPG Nature Tileset Autumn_55
+  - first:
+      213: 8252869271223603902
+    second: RPG Nature Tileset Autumn_56
+  - first:
+      213: 8919125812619470906
+    second: RPG Nature Tileset Autumn_57
+  - first:
+      213: 4411312316574091162
+    second: RPG Nature Tileset Autumn_58
+  - first:
+      213: -113053105621022924
+    second: RPG Nature Tileset Autumn_59
+  - first:
+      213: 6134379689880838343
+    second: RPG Nature Tileset Autumn_60
+  - first:
+      213: 2976990924511180372
+    second: RPG Nature Tileset Autumn_61
+  - first:
+      213: -567933214378449433
+    second: RPG Nature Tileset Autumn_62
+  - first:
+      213: 3013038853743236709
+    second: RPG Nature Tileset Autumn_63
+  - first:
+      213: 1124914446883101612
+    second: RPG Nature Tileset Autumn_64
+  - first:
+      213: 6933184913782003692
+    second: RPG Nature Tileset Autumn_65
+  - first:
+      213: 5963164087618660016
+    second: RPG Nature Tileset Autumn_66
+  - first:
+      213: 2550526814314174601
+    second: RPG Nature Tileset Autumn_67
+  - first:
+      213: -9146426545086251353
+    second: RPG Nature Tileset Autumn_68
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2736c40387edafb80800000000000000
+      internalID: -8360125150472150158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489f80f0dead2f7f0800000000000000
+      internalID: -580160690283021948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ea87876603cc130800000000000000
+      internalID: 3588296219773415070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b629b9c2942e8b60800000000000000
+      internalID: 7750172221619381938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d68192601fe4300800000000000000
+      internalID: 238392839058779475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_5
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f64f88c7ea9a2c60800000000000000
+      internalID: 7794212425411020530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19b3040f9999d150800000000000000
+      internalID: 5897914095264577818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_7
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96cbd3372a52e4d60800000000000000
+      internalID: 7876274177965931625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba72b8fa0cb7fa70800000000000000
+      internalID: 8860757547182881461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a3c19261722b2b0800000000000000
+      internalID: -5570346812971402746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba726f5a08cdc7810800000000000000
+      internalID: 1764527599120689067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dfeadc5cd036fa70800000000000000
+      internalID: 8860323039906820055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50840c72dbbf5270800000000000000
+      internalID: 8241512355809493084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae6025efc57dcd80800000000000000
+      internalID: -8228791408373240148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8493b37c37160310800000000000000
+      internalID: 1370808684987520139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1652cc1045c32c140800000000000000
+      internalID: 4738416089452258657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31baf4ba8de1489f0800000000000000
+      internalID: -467214545403794669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9330d8202c57913b0800000000000000
+      internalID: -5541268390375783623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf84aad1a1e3bc7f0800000000000000
+      internalID: -591310644181317380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb91bd85ef8a1d420800000000000000
+      internalID: 2653087465863846335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bd1fe0bb3646f10800000000000000
+      internalID: 2262042567907597101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3508c24e40a8053e0800000000000000
+      internalID: -2067000475350433709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d7b25143a82b120800000000000000
+      internalID: 2428155105404222804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1dabd13d4e1dac0800000000000000
+      internalID: -3832030212527566394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b0fc29c16ed61b70800000000000000
+      internalID: 8869521027721130165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1e6a6f5f04335e0800000000000000
+      internalID: -1931128390062513722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0cc0845f3b1090800000000000000
+      internalID: -8062781075706082032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88440a185f9ec7720800000000000000
+      internalID: 2845406305242334344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92f2cf62a64d5a720800000000000000
+      internalID: 2856923091022130985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd87c3aabaaaf7fe0800000000000000
+      internalID: -1189044122330302245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a627d4eeb9f0a0d0800000000000000
+      internalID: -3413453919268428128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e6007372a77d1f20800000000000000
+      internalID: 3395001233712350945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a7207b2eb6db7540800000000000000
+      internalID: 5006831523013339048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84aa8e0e683a41620800000000000000
+      internalID: 2743997872669764168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291bd0b81e0fb5820800000000000000
+      internalID: 2908182835889025426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d315c578a5dff22e0800000000000000
+      internalID: -2148219931972579011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_36
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06a218dc67d87fd0800000000000000
+      internalID: -2343886743564802549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_37
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 329080a468afe17d0800000000000000
+      internalID: -2945641651579123421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_38
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fe64b2beb0586f0800000000000000
+      internalID: -683126663805473006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675314ed2ab13ca30800000000000000
+      internalID: 4234258460985865590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_40
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 687b614854f2d4a30800000000000000
+      internalID: 4201066003021870982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffed953ab3d89a610800000000000000
+      internalID: 1632991627181678335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_42
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fee045b798844f70800000000000000
+      internalID: 9170604926395543289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8ecd04ecf4594a0800000000000000
+      internalID: -6587271132689405722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_44
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e86d647f242c5440800000000000000
+      internalID: 4925851878671870178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_45
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b000173ce0f0e37f0800000000000000
+      internalID: -631050341702369269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_46
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c37495ded9c2d60800000000000000
+      internalID: 7866836291840064645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01c5086b168cd320800000000000000
+      internalID: 2584087738471268618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_48
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5af294e721d16d0800000000000000
+      internalID: -3018235841665325593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_49
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d581c03bd371f8d50800000000000000
+      internalID: 6741632720961280093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7d5505dcfc01b00800000000000000
+      internalID: 797365614767626146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_51
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e246b299125a415d0800000000000000
+      internalID: -3092665480374426578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_52
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a265c8623d9bfe50800000000000000
+      internalID: 6844236898551292580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_53
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d1e7550ce13bda0800000000000000
+      internalID: -5930362472899928727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4415f018895b4820800000000000000
+      internalID: 2903512825705337931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_55
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7940bbb0fc2e8de00800000000000000
+      internalID: 1069854290383406231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_56
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2150960e4188270800000000000000
+      internalID: 8252869271223603902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_57
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a386338cba917cb70800000000000000
+      internalID: 8919125812619470906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9744b60e21283d30800000000000000
+      internalID: 4411312316574091162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43744b6acca5e6ef0800000000000000
+      internalID: -113053105621022924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_60
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0e7bc93d1b12550800000000000000
+      internalID: 6134379689880838343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_61
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456fc0b1975605920800000000000000
+      internalID: 2976990924511180372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_62
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5a3d420cb4e18f0800000000000000
+      internalID: -567933214378449433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_63
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566d0dbafd670d920800000000000000
+      internalID: 3013038853743236709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cab1c29babf7c9f00800000000000000
+      internalID: 1124914446883101612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7d21c02fe973060800000000000000
+      internalID: 6933184913782003692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b660ebb42a61c250800000000000000
+      internalID: 5963164087618660016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9881e45df9a456320800000000000000
+      internalID: 2550526814314174601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RPG Nature Tileset Autumn_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3eef548d511180800000000000000
+      internalID: -9146426545086251353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

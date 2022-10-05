@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2808154796662916413
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8311703931933589249}
+  - component: {fileID: 3966496562836960938}
+  - component: {fileID: 9044204791139657360}
+  m_Layer: 0
+  m_Name: GoogleMobileAdsManager 1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8311703931933589249
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2808154796662916413}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 8.372152, y: 7.4919515, z: 2.58}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3966496562836960938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2808154796662916413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 033e5ea6ec3272c41841906142f85925, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  unityMainThreadDispatcher: {fileID: 9044204791139657360}
+  androidAppId: ca-app-pub-8718583587662807~7619573099
+  iosAppId: 
+  androidBannerId: 
+  iosBannerId: 
+  androidInterstitialUnitId: ca-app-pub-8718583587662807/5679805463
+  iosInterstitialUnitId: 
+  androidRewardedUnitId: ca-app-pub-8718583587662807/4366723792
+  iosRewardedUnitId: 
+--- !u!114 &9044204791139657360
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2808154796662916413}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa33f812b549cbd4096b3045b59dba92, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
